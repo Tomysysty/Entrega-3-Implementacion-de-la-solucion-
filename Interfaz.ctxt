@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Interfaz
+comment1.params=usuarios
+comment1.target=Interfaz(java.util.ArrayList)
+comment2.params=
+comment2.target=javax.swing.JPanel\ crearPanelSolicitarReserva()
+comment3.params=
+comment3.target=javax.swing.JPanel\ crearPanelConsultarReservas()
+comment4.params=
+comment4.target=javax.swing.JPanel\ crearPanelEliminarReservas()
+comment5.params=
+comment5.target=void\ solicitarReserva()
+comment6.params=usuarioSeleccionado
+comment6.target=void\ consultarReservas(java.lang.String)
+comment7.params=
+comment7.target=void\ cargarReservasParaEliminar()
+comment8.params=
+comment8.target=void\ eliminarReserva()
+numComments=9

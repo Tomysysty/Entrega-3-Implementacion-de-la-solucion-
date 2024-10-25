@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=id\ nombre\ contrase\u00F1a
+comment1.target=Usuario(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=reserva
+comment3.target=void\ solicitarReserva(Reserva)
+comment4.params=
+comment4.target=java.util.ArrayList\ getReservas()
+comment5.params=reservaSeleccionada
+comment5.target=boolean\ eliminarReserva(java.lang.String)
+comment6.params=id\ contrase\u00F1a
+comment6.target=void\ login(int,\ java.lang.String)
+numComments=7
